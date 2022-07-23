@@ -1,0 +1,43 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Quienes somos */
+
+#quienessomos {
+    background-color: rgb(8, 3, 0);
+}
+
+.icono {
+    background-color: aqua;
+}
+
+/* Destacados */
+
+#destacados {
+    background-color: rgb(8, 3, 0);
+} 
+
+.card {
+    background-color: aqua;
+}
+
+/* Contactos*/
+
+#contacto { 
+    background-color: rgb(8, 3, 0);
+}
+
+.btn {
+    background-color: aqua;
+}
+
+/* Footer */
+
+footer {
+    background-color: aqua;
+}
